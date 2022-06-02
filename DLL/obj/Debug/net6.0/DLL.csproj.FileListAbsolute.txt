@@ -1,0 +1,15 @@
+D:\MySpace\WebAPI\MySQL_API\DLL\bin\Debug\net6.0\DLL.deps.json
+D:\MySpace\WebAPI\MySQL_API\DLL\bin\Debug\net6.0\DLL.dll
+D:\MySpace\WebAPI\MySQL_API\DLL\bin\Debug\net6.0\DLL.pdb
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\DLL.csproj.AssemblyReference.cache
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\DLL.AssemblyInfoInputs.cache
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\DLL.AssemblyInfo.cs
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\DLL.csproj.CoreCompileInputs.cache
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\EFCoreMySqlJsonNewtonsoft.cs
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\DLL.dll
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\refint\DLL.dll
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\DLL.pdb
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\ref\DLL.dll
+D:\MySpace\WebAPI\MySQL_API\DLL\bin\Debug\net6.0\DLL.runtimeconfig.json
+D:\MySpace\WebAPI\MySQL_API\DLL\obj\Debug\net6.0\DLL.genruntimeconfig.cache
